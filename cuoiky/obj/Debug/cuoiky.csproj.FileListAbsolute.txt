@@ -1,0 +1,13 @@
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\bin\Debug\cuoiky.exe.config
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\bin\Debug\cuoiky.exe
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\bin\Debug\cuoiky.pdb
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.AssemblyReference.cache
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.Properties.Resources.resources
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.GenerateResource.cache
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.csproj.CoreCompileInputs.cache
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.exe
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.pdb
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.adminhomepage.resources
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.adminlogin.resources
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.Form1.resources
+C:\Users\lqvt2\Downloads\HK7\XD HTTTQL\cuoiky\cuoiky\obj\Debug\cuoiky.userhomepage.resources
